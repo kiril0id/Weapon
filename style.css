@@ -329,3 +329,18 @@ table tr td
 { background: #E5E5DB;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
+div.w50 {
+    width: 265px;
+    float: left;
+}
+
+div.w50 h2 {
+  font-family: Georgia,Arial;
+  font-weight: 700;
+  line-height: 120%;
+  margin-top: .3em;
+  margin-bottom: .3em;
+  color: #333;
+  font-size: 120%;
+}
